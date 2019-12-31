@@ -1,0 +1,14 @@
+#Compiler le fichier genius.ptyhon
+
+#Pour vous connecter (joueur) Vous devrez vous inscrire / 
+	 utiliser les parametres d'un enfant deja charge dans le programme-----> consulter listeMembres.py
+
+#pour l'inscription l'enfant ne doit pas exceder 15 ans
+
+#tll existe des fonctions de validation lors de l'inscription
+
+#notez l'identifiant attribue au parent lors de l'inscription 
+
+#Une fois connecte vous pouvez jouer des parties..
+
+#il faut que le joueur soit pour qu'on puisse consulter ses performances (seul le parent peut le faire en entrant son id)
